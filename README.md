@@ -1,0 +1,2 @@
+# ccp
+Cloud Compute Platform
